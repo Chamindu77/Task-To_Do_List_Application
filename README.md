@@ -1,4 +1,4 @@
-# Todo App
+# To Do List Application 
 
 ![Screenshot 2024-06-06 155219](https://github.com/Vindyani1999/My-React-Projects/assets/145743416/c55cf89e-53ba-43fd-9512-de3295279d8f&width=1000&height=500)
 
